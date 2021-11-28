@@ -1,0 +1,36 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    background-color: #7bbaad;
+    /* #689da1; */
+    /* #7bb6ba; */
+    color: white;
+    box-shadow: 5px 5px 18px grey;
+    border-radius: 15px;
+    /* border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; */
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.status_detection{
+    font-size: 18px;
+    background-color: #68b2f7da;
+    /* #e68c75 */
+    width: 400px;
+    height: 35px;
+    margin-top: 15px;
+    padding-top: 5px;
+    color: white;
+    border-radius: 20px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 5px 5px 18px grey;
+    border-radius: 5px;
+}
